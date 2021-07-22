@@ -18,4 +18,4 @@ please consider opening an issue here to organize conversation more clearly.
 ## Contributing
 
 This repository holds no information besides this README, so it is unlikely you will need
-to contribute. That said, if you find something to change in this README, feel freet to PR!
+to contribute. That said, if you find something to change in this README, feel freet to open a PR!
